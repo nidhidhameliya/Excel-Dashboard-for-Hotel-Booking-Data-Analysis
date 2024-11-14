@@ -1,0 +1,5 @@
+Requirements
+Microsoft Excel
+Windows OS or macOS
+Internet Access
+  -If you need to download any external data or connect to cloud-based data sources for updates, an internet connection will be required.
